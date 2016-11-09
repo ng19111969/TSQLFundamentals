@@ -1,0 +1,11 @@
+D:\Cégep\Dropbox\Cégep A2016\420-524-MT Bases de données client-serveur\Développement\MonApplication\MonApplication\bin\Debug\MonApplication.exe.config
+D:\Cégep\Dropbox\Cégep A2016\420-524-MT Bases de données client-serveur\Développement\MonApplication\MonApplication\bin\Debug\MonApplication.exe
+D:\Cégep\Dropbox\Cégep A2016\420-524-MT Bases de données client-serveur\Développement\MonApplication\MonApplication\bin\Debug\MonApplication.pdb
+D:\Cégep\Dropbox\Cégep A2016\420-524-MT Bases de données client-serveur\Développement\MonApplication\MonApplication\bin\Debug\MonApplication.xml
+D:\Cégep\Dropbox\Cégep A2016\420-524-MT Bases de données client-serveur\Développement\MonApplication\MonApplication\obj\Debug\MonApplication.Resources.resources
+D:\Cégep\Dropbox\Cégep A2016\420-524-MT Bases de données client-serveur\Développement\MonApplication\MonApplication\obj\Debug\MonApplication.vbproj.GenerateResource.Cache
+D:\Cégep\Dropbox\Cégep A2016\420-524-MT Bases de données client-serveur\Développement\MonApplication\MonApplication\obj\Debug\MonApplication.exe
+D:\Cégep\Dropbox\Cégep A2016\420-524-MT Bases de données client-serveur\Développement\MonApplication\MonApplication\obj\Debug\MonApplication.xml
+D:\Cégep\Dropbox\Cégep A2016\420-524-MT Bases de données client-serveur\Développement\MonApplication\MonApplication\obj\Debug\MonApplication.pdb
+D:\Cégep\Dropbox\Cégep A2016\420-524-MT Bases de données client-serveur\Développement\MonApplication\MonApplication\obj\Debug\MonApplication.frmGestionProduits.resources
+D:\Cégep\Dropbox\Cégep A2016\420-524-MT Bases de données client-serveur\Développement\MonApplication\MonApplication\obj\Debug\MonApplication.ExempleOnglets.resources
