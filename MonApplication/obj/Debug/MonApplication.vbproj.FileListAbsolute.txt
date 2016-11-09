@@ -9,3 +9,14 @@ D:\Cégep\Dropbox\Cégep A2016\420-524-MT Bases de données client-serveur\Déve
 D:\Cégep\Dropbox\Cégep A2016\420-524-MT Bases de données client-serveur\Développement\MonApplication\MonApplication\obj\Debug\MonApplication.pdb
 D:\Cégep\Dropbox\Cégep A2016\420-524-MT Bases de données client-serveur\Développement\MonApplication\MonApplication\obj\Debug\MonApplication.frmGestionProduits.resources
 D:\Cégep\Dropbox\Cégep A2016\420-524-MT Bases de données client-serveur\Développement\MonApplication\MonApplication\obj\Debug\MonApplication.ExempleOnglets.resources
+D:\GitHub\TSQLFundamentals\MonApplication\bin\Debug\MonApplication.exe.config
+D:\GitHub\TSQLFundamentals\MonApplication\obj\Debug\MonApplication.exe
+D:\GitHub\TSQLFundamentals\MonApplication\obj\Debug\MonApplication.xml
+D:\GitHub\TSQLFundamentals\MonApplication\obj\Debug\MonApplication.pdb
+D:\GitHub\TSQLFundamentals\MonApplication\bin\Debug\MonApplication.exe
+D:\GitHub\TSQLFundamentals\MonApplication\bin\Debug\MonApplication.pdb
+D:\GitHub\TSQLFundamentals\MonApplication\bin\Debug\MonApplication.xml
+D:\GitHub\TSQLFundamentals\MonApplication\obj\Debug\MonApplication.ExempleOnglets.resources
+D:\GitHub\TSQLFundamentals\MonApplication\obj\Debug\MonApplication.frmGestionProduits.resources
+D:\GitHub\TSQLFundamentals\MonApplication\obj\Debug\MonApplication.Resources.resources
+D:\GitHub\TSQLFundamentals\MonApplication\obj\Debug\MonApplication.vbproj.GenerateResource.Cache
